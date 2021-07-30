@@ -20,3 +20,7 @@ h1, h2 {
     top: 50%;
     transform: translateY(-50%);
 }
+
+.underline {
+    text-underline-offset: 2.5px;
+}
